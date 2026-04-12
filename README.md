@@ -73,20 +73,11 @@ npm install
 
 ---
 
-### 4. Create `.env` file
 
-```env
-PORT=5000
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=
-DB_NAME=auth_db
-JWT_SECRET=secretkey
-```
 
 ---
 
-### 5. Run Backend
+### 4. Run Backend
 
 ```bash
 npm run dev
